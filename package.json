@@ -2,7 +2,7 @@
   "name": "justbuidlit",
   "version": "0.1.0",
   "private": false,
-  "homepage":"https://just-buidl-it.github.io/just-buidl-it",
+  "homepage":"https://just-buidl-it.github.io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
