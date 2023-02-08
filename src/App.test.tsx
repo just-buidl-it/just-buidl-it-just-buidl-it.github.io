@@ -4,9 +4,9 @@ import App from './App';
 
 test('render header', () => {
   render(<App />);
-  const headerElement = screen.getByText(/Just Build It/i)
+  const headerElement = screen.getByText(/Just Buidl It/i)
   expect(headerElement).toBeInTheDocument();
-  const subHeaderElement = screen.getByText(/Learn, Build, Ship/i)
+  const subHeaderElement = screen.getByText(/Learn Build Ship/i)
   expect(subHeaderElement).toBeInTheDocument();
 });
 

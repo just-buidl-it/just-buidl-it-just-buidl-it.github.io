@@ -15,7 +15,7 @@ function App() {
       </header>
       <img src={banner} className="banner" alt="banner" />
       <div className="links">
-        <a href="https://www.twitch.tv/just_buidl_it" target="_blank" rel="noreferrer" data-testid="twich-link">
+        <a href="https://www.twitch.tv/just_buidl_it" target="_blank" rel="noreferrer" data-testid="twitch-link">
           <Twitch alt="Twitch logo" />
         </a>
         <a href="https://www.twitter.com/just_buidl_it" target="_blank" rel="noreferrer" data-testid="twitter-link">
